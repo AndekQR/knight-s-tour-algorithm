@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1512378718 source:e:\weaii\semestr 3\programowanie_w_jêzyku_c2_projekt\konik_gui\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
+1512378913 source:f:\weaii\semestr 3\programowanie_w_jêzyku_c2_projekt\konik_gui\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+
